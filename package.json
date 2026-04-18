@@ -1,12 +1,17 @@
 {
   "name": "mma-plugin-magicmirror-update",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MagicMirror Admin Plugin - MagicMirror Update",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["magicmirror", "admin", "plugin", "update"],
+  "keywords": [
+    "magicmirror",
+    "admin",
+    "plugin",
+    "update"
+  ],
   "author": "",
   "license": "ISC"
 }
