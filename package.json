@@ -1,6 +1,6 @@
 {
   "name": "mma-plugin-magicmirror-update",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MagicMirror Admin Plugin - MagicMirror Update",
   "main": "index.js",
   "scripts": {
